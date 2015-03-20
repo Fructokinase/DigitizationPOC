@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>DigitizationPOC</name>
   <description></description>
+  <modules>
+    <module>DocumentInjestionPOC</module>
+  </modules>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
